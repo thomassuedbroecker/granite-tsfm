@@ -141,3 +141,13 @@ notebooks/thinklab/checkpoint/**
 # Version
 /tsfm_public/_version.py
 **/checkpoint**/**
+
+# Additional
+granite-tsfm.code-workspace
+setup_jupyter_notebooks.md
+additional_information.md
+notebooks/example/beijing+pm2+5+data.zip
+notebooks/example/PRSA_data_2010.1.1-2014.12.31.csv
+notebooks/example/tmp_trainer
+notebooks/example/ttm_finetuned_energy_models
+notebooks/example/time-series.json
